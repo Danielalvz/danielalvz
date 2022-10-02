@@ -26,7 +26,8 @@ const daniela = {
     code: [Java, Python, HTML, CSS, Javascript],
     tools: [MySql, Spring, Bootstrap],
  
-    challenge: "I am doing some challenges focused on java and springboot. Also I practice with little projects with Javascript, html and CSS"
+    challenge: "I am doing some challenges focused on java and springboot. 
+        Also I practice doing little projects with Javascript, html and CSS"
 }
 ```
 
@@ -34,4 +35,5 @@ const daniela = {
 
 ---
 
-&copy From [@Danielalvz](https://github.com/Danielalvz)
+	
+&#169; From [@Danielalvz](https://github.com/Danielalvz)
