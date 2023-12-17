@@ -21,12 +21,11 @@
 
 ```javascript
 const daniela = {
-    pronouns: "she" | "her",
     code: [Java, Python, HTML, CSS, Javascript],
     tools: [MySql, Spring, Bootstrap],
  
-    challenge: "I am doing some challenges focused on java and springboot. 
-        Also I practice doing little projects with Javascript, html and CSS"
+    challenge: "I am practicing with projects focused on java and springboot. 
+        Also I practice doing some projects with Javascript, HTML, CSS and Bootstrap"
 }
 ```
 
